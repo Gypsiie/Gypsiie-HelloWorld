@@ -1,6 +1,7 @@
 public class Lab {
     /**
-     * TODO: Change this method so that it returns "Hello, world!"
+     * public static String helloWorld() {
+        return "Hello, world!";
      *
      * This method currently contains the line:
      * return "change me";
@@ -14,7 +15,8 @@ public class Lab {
      * 
      * @return "Hello, world!"
      */
-    public String sayHello(){
-        return "change me";
+    public static String sayHello() {
+        return "Hello, world!";
     }
+    
 }
